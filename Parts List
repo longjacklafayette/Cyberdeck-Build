@@ -1,0 +1,30 @@
+1. Lattepanda Delta 3
+    - Here is the offical webiste for the Delta 3 but I would suggest checking on ebay or other reseller sites for this device. Brand new and from Lattepanda it is a little pricey. 
+    - https://www.dfrobot.com/product-2594.html?tracking=663d98e12ee98&gad_source=1&gad_campaignid=19604009746&gbraid=0AAAAADucPlB0w7iGsJYnUkHqHFjc8I0hi&gclid=Cj0KCQiAiKzIBhCOARIsAKpKLAPqknSxguf7whUIH6Cj-iaeIJiuuE5vPNTmFQ0osT1_9NwqwatawYUaAutwEALw_wcB
+
+2. Lattepand 7" edp touchscreen
+    - They make two differnt 7" edp touchsccreen and one claims not to be compatible with the Delta 3, so if you're buying this from a reseller, keep that in mind. 
+    -https://www.dfrobot.com/product-1853.html
+
+3. Iniu Power Bank
+    - I used the 20,000mAh bank (and that is what is linked below) however, they do make a 25,000mAh version that looks really similiar but could be a different physical size. 
+    - https://www.walmart.com/ip/INIU-BI-B62-Power-Bank-20000mAh-65W-USB-C-PD-QC-Fast-Charging-Black/5306407994?wmlspartner=wlpa&selectedSellerId=101402727
+
+4. Cable to charge the battery bank
+    - https://www.amazon.com/dp/B08HS6X44P?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+5. External Battery Bank Switch
+    - I purchased several of these off of amazon that claimed to handle PD power but in practice they did not. I purchased the linked one below and it worked great. Just keep that in mind. 
+    - https://www.aliexpress.us/item/3256808321946692.html?spm=a2g0o.order_list.order_list_main.5.41ec1802abO0Rv&gatewayAdapt=glo2usa
+
+6. Pack of bolts and nuts I know will fit the files. 
+    - I would assumes most M3 nuts and bolts in the sizes I mentiioned will work but these are the ones I used and modeled to make the device. 
+    - https://www.amazon.com/dp/B0CCXJC8RD?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+7. Optional External Antenna
+    - https://www.amazon.com/dp/B0B42L2RKS?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+
+8. Keyboard
+    - https://www.amazon.com/dp/B0797Q97FK?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+9. I am also booting from an nvme drive which made the device much faster. It does come with some onboard storage so it is optional. 
